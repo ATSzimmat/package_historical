@@ -1,6 +1,6 @@
-# historical v1.1.1
-
+# historical v1.1.1  
 by ATSzimmat
 
 <img src="images/Logo_historical_end.jpg" width="150" style="float: right; margin: 0 0 1em 1em;">
-<p>Welcome to the package historical!</p>
+
+Welcome to the package historical!
