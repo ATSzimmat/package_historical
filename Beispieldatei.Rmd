@@ -1,0 +1,8 @@
+---
+title: "Beispieldatei"
+author: "Anton Szimmat (12797237)"
+date: "2025-07-21"
+output: html_document
+---
+
+Das ist eine Besipiel-Datei. Wenn du nicht funktionierst, werfe ich dich aus dem Fenster!
